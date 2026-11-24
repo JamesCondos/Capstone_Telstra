@@ -24,7 +24,7 @@ A residual multilayer perceptron (MLP) learned to predict the change from the la
 
 For site throughput, the long short-term memory network (LSTM) had the lowest error across **2,384 test windows from 149 sites**. The figures below pool all four forecast horizons (Table 26).
 
-| Site-throughput forecast | MAE (Mbit/s, lower is better) |
+| Site-throughput forecast | MAE (Mbit/s) |
 | --- | ---: |
 | Repeat the latest measurement | 4.881 |
 | Repeat the past hour’s mean | 4.801 |
